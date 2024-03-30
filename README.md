@@ -39,15 +39,7 @@ I'm a passionate [ML], currently [I makeing chatbot with NLP].
 
 ## Goals
 
-- 🚀 My goal is to [mention your career or personal goals].
-- 📖 I'm passionate about [mention a topic or cause you're passionate about].
+- 🚀 My goal is to [become best programmer ever].
+- 📖 I'm passionate about [AI].
 
-## Fun Facts
 
-- 🎭 I enjoy [hobbies or interests].
-- 🎨 In my free time, I like to [mention your hobbies or activities you enjoy].
-- 🎶 Fun fact: [share another interesting fact about yourself].
-
----
-
-Feel free to customize this template further to better reflect your personality, experiences, and goals. Your GitHub profile README is a great way to showcase your skills, interests, and achievements to potential collaborators and employers.
