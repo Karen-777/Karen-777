@@ -1,12 +1,12 @@
 # Hi there, I'm Karen! 👋
 
-I'm a passionate [ML], currently [I makeing chatbot with NLP].
+I'm a passionate ML, currently I makeing chatbot with NLP.
 
 ## About Me
 
 - 🌱 I’m currently learning ML with python.
-- 👀 I’m interested in [NLP,chatbots,AI,ML].
-- 💼 I’m open to new opportunities and collaborations in [ML,AI].
+- 👀 I’m interested in NLP,chatbots,AI,ML.
+- 💼 I’m open to new opportunities and collaborations in ML,AI.
 
 
 ## Get in Touch
@@ -17,20 +17,20 @@ I'm a passionate [ML], currently [I makeing chatbot with NLP].
 
 ## Skills
 
-- [Python].
-- [ML].
-- [SQL].
-- [MS OFFICE].
-- [VS code].
-- [Jupyter lab].
-- [Selenium].
-- [Numpy].
-- [Pandas].
-- [sklearn].
-- [keras].
-- [Data Analysis].
-- [Data makeing].
-- [Data cleaning].
+- Python
+- ML
+- SQL
+- MS OFFICE
+- VS code
+- Jupyter lab
+- Selenium
+- Numpy
+- Pandas
+- sklearn
+- keras
+- [Data Analysis
+- [Data makeing
+- Data cleaning
  
 ## Education
 
@@ -39,7 +39,7 @@ I'm a passionate [ML], currently [I makeing chatbot with NLP].
 
 ## Goals
 
-- 🚀 My goal is to [become best programmer ever].
-- 📖 I'm passionate about [AI].
+- 🚀 My goal is to become best programmer ever.
+- 📖 I'm passionate about AI.
 
 
