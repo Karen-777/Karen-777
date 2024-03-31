@@ -28,8 +28,8 @@ I'm a passionate ML, currently I makeing chatbot with NLP.
 - Pandas
 - sklearn
 - keras
-- [Data Analysis
-- [Data makeing
+- Data Analysis
+- Data makeing
 - Data cleaning
  
 ## Education
