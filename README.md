@@ -1,6 +1,6 @@
 # Hi there, I'm Karen! 👋
 
-I'm a passionate ML, currently I makeing chatbot with NLP.
+I'm  engaged in ML, Data analysis, Data Science.Currently I am working in my chatbot.
 
 ## About Me
 
