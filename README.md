@@ -13,7 +13,7 @@ I'm a passionate ML, currently I makeing chatbot with NLP.
 
 - 📫 You can reach me via email at [karensahakyan049@gmail.com].
 - 📱 Connect with me on Linkedin [https://www.linkedin.com/in/karen-sahakyan-826894246/].
-- 💬 Feel free to message me about [topics you're interested in discussing or collaborating on].
+- 💬 Feel free to message me about topics you're interested in discussing or collaborating on.
 
 ## Skills
 
