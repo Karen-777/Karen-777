@@ -29,7 +29,7 @@ I'm  engaged in ML, Data analysis, Data Science.Currently I am working in my cha
 - sklearn
 - keras
 - Data Analysis
-- Data makeing
+- Data making
 - Data cleaning
  
 ## Education
@@ -39,7 +39,7 @@ I'm  engaged in ML, Data analysis, Data Science.Currently I am working in my cha
 
 ## Goals
 
-- 🚀 My goal is to become best programmer ever.
-- 📖 I'm passionate about AI.
+- 🚀 My goal is to become the best programmer ever.
+- 📖 I'm ardent about AI.
 
 
